@@ -1,0 +1,13 @@
+.c1,.c2{
+    font-size: 28px;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+.c1{
+    color: aliceblue;
+    background-color: black;
+}
+
+.c2{
+    background-color: yellowgreen;
+}
