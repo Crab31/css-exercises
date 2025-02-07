@@ -1,0 +1,7 @@
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* when adding style to elements that are inside of another ill use a space for the distinction, as in the first element selecter (space) the descendent of the first (name) /*
